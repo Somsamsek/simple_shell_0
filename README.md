@@ -1,4 +1,4 @@
-# <a href="url"><img src="https://images.assetsdelivery.com/compings_v2/dmstudio/dmstudio1606/dmstudio160600030.jpg" align="middle" width="100" height="100"></a> simple_shell
+# <a href="url"><img src="https://cdn.ttgtmedia.com/rms/onlineImages/sito_output_dir_powershell.jpg" align="middle" width="100" height="100"></a> simple_shell
 
 
 ## Table of Contents
@@ -81,7 +81,7 @@ simple_shell is designed to run in the `Ubuntu 14.04 LTS` linux environment and 
 
 ## Installation
 
-   - Clone this repository: `git clone "https://github.com/zamu5/simple_shell.git"`
+   - Clone this repository: `git clone "https://github.com/Somsamsek/simple_shell.git"`
    - Change directories into the repository: `cd simple_shell`
    - Compile: `gcc -Wall -Werror -Wextra -pedantic *.c -o hsh`
    - Run the shell in interactive mode: `./hsh`
