@@ -150,4 +150,4 @@ drwxrwxr-x  8 vagrant vagrant  4096 Aug 25 20:27 .git
 ## Authors
 
 Nkwuda Theophilus | [GitHub](https://github.com/ONtio-js) | [Twitter](https://twitter.com/theophilusonye9)
-
+Chinwendu Eke | [GitHub](https://github.com/Somsamsek) | [Twitter](https://twitter.com/somsamsek)
