@@ -1,0 +1,15 @@
+env: env
+	Print the values of the specified environment
+Return: status 0 if success / otherwise in failure
+
+setenv: setenv [Variable] [value]
+	Initialize a new environment variable, or modify an existing one
+	Command syntax: setenv VARIABLE VALUE
+	Should print something on stderr on failure
+Return: status 0 if success / otherwise in failure
+
+unsetenv: unsetenv [Variable] [value]
+	Remove an environment variable
+	Command syntax: unsetenv VARIABLE
+	Should print something on stderr on failure
+Return: status 0 if success / otherwise in failure
