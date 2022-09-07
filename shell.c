@@ -97,4 +97,3 @@ void writes0(char **buff)
 	_puts2(": No such file or directory");
 	_puts2("\n");
 }
-Footer

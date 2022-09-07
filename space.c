@@ -136,4 +136,3 @@ char *oldpwd(void)
 	copy = _strtok(NULL, "\0");
 	return (copy);
 }
-Footer
