@@ -57,4 +57,4 @@
 "	unset\t[variable]\n"\
 "	help\t[built_name]\n\n"
 
-#endif
+#endif /* HELPERS_H */

@@ -4,7 +4,7 @@
  * long_to_string - converts a number to a string.
  * @number: number to be converten in an string.
  * @string: buffer to save the number as string.
- * @base: base to convert number
+ * @base: base to convert number.
  *
  * Return: Nothing.
  */
@@ -70,7 +70,7 @@ int _atoi(char *s)
  * count_characters - count the coincidences of character in string.
  *
  * @string: pointer to str origen.
- * @character: string with  chars to be counted
+ * @character: string with  chars to be counted.
  * Return: int of string or 0.
  */
 int count_characters(char *string, char *character)

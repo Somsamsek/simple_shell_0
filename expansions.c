@@ -2,7 +2,7 @@
 
 /**
  * expand_variables - expand variables
- * @data: a pointer to a struct of the program's data
+ * @data: a pointer to a struct of the program's data.
  *
  * Return: nothing, but sets errno.
  */
@@ -52,7 +52,7 @@ void expand_variables(data_of_program *data)
 
 /**
  * expand_alias - expans aliases
- * @data: a pointer to a struct of the program's data
+ * @data: a pointer to a struct of the program's data.
  *
  * Return: nothing, but sets errno.
  */
@@ -94,8 +94,8 @@ void expand_alias(data_of_program *data)
 
 /**
  * buffer_add - append string at end of the buffer
- * @buffer: buffer to be filled
- * @str_to_add: string to be copied in the buffer
+ * @buffer: buffer to be filled.
+ * @str_to_add: string to be copied in the buffer.
  * Return: nothing, but sets errno.
  */
 int buffer_add(char *buffer, char *str_to_add)

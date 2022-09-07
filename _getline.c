@@ -2,7 +2,7 @@
 
 /**
 * _getline - read one line from the prompt.
-* @data: struct for the program's data
+* @data: struct for the program's data.
 *
 * Return: reading counting bytes.
 */
@@ -54,8 +54,8 @@ int _getline(data_of_program *data)
 /**
 * check_logic_ops - checks and split for && and || operators
 * @array_commands: array of the commands.
-* @i: index in the array_commands to be checked
-* @array_operators: array of the logical operators for each previous command
+* @i: index in the array_commands to be checked.
+* @array_operators: array of the logical operators for each previous command.
 *
 * Return: index of the last command in the array_commands.
 */

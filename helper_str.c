@@ -20,7 +20,7 @@ int str_length(char *string)
 
 /**
  * str_duplicate - duplicates an string
- * @string: String to be copied
+ * @string: String to be copied.
  * Return: pointer to the array
  */
 char *str_duplicate(char *string)
@@ -51,9 +51,9 @@ char *str_duplicate(char *string)
 
 /**
  * str_compare - Compare two strings
- * @string1: String one, or the shorter
- * @string2: String two, or the longer
- * @number: number of characters to be compared, 0 if infinite
+ * @string1: String one, or the shorter.
+ * @string2: String two, or the longer.
+ * @number: number of characters to be compared, 0 if infinite.
  * Return: 1 if the strings are equals,0 if the strings are different
  */
 int str_compare(char *string1, char *string2, int number)
@@ -90,8 +90,8 @@ int str_compare(char *string1, char *string2, int number)
 
 /**
  * str_concat - concatenates two strings.
- * @string1: String to be concatenated
- * @string2: String to be concatenated
+ * @string1: String to be concatenated.
+ * @string2: String to be concatenated.
  *
  * Return: pointer to the array
  */

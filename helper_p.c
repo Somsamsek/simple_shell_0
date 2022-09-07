@@ -2,7 +2,7 @@
 
 /**
  * _print - writes a array of chars in the standar output
- * @string: pointer to the array of chars
+ * @string: pointer to the array of chars.
  * Return: the number of bytes writed or .
  * On error, -1 is returned, and errno is set appropriately.
  */
@@ -12,7 +12,7 @@ int _print(char *string)
 }
 /**
  * _printe - writes a array of chars in the standar error
- * @string: pointer to the array of chars
+ * @string: pointer to the array of chars.
  * Return: the number of bytes writed or .
  * On error, -1 is returned, and errno is set appropriately.
  */
@@ -23,8 +23,8 @@ int _printe(char *string)
 
 /**
  * _print_error - writes a array of chars in the standart error
- * @data: a pointer to the program's data'
- * @errorcode: error code to print
+ * @data: a pointer to the program's data'.
+ * @errorcode: error code to print.
  * Return: the number of bytes writed or .
  * On error, -1 is returned, and errno is set appropriately.
  */
