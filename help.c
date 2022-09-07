@@ -2,6 +2,7 @@
 
 /**
  * help - help builtin command
+ * @abc: array of functions
  * @cmd: if command matches a builtin name, text file is sent to stdout
  * Return: 0 if sucess
  */
